@@ -1,0 +1,442 @@
+A+. 2001 Similar to APL.
+A#. Object oriented, functional programming language, now replaced by Aldor.
+ABAP, Advanced Business Application Programming. 1983. Cobol-like programming language for SAP web application servers.
+ABC. Precursor to Python.
+Action! Compiler design programming language, as Micro-SPL.
+ActionScript. 2004. Version of ECMAScript for Flash.
+Actor. 1986. Programming language and also a concept for language design (actor oriented).
+Actum. 2009 by Microsoft. Experimental, concurrent actor-based, internal to the firm.
+Ada. 1983. Named after Ada Lovelace, was developped for the US Department Of Defense.
+Afnix. 1998 Formerly Aleph. Functional language.
+Agena. 2009. Inspired from d'ALGOL and C.
+Aldor. 1985. IBM. For mathematical computing.
+Aleph. See Afnix.
+Algae. Interpreted language for numerical analysis.
+Algo. Algebraic programming language.
+ALGOL, ALGOrithmic Language. 1958. Followed by d'ALGOL 60, d'ALGOL W (Wirth) and then ALGOL 68. Has inspired Pascal, C and C-Like.
+Alma-0. Modula 2, imperative language augmented with logical programming features.
+Alphard. 1974. Name of the brightest star in Hydra. Pascal-like, not implemented.
+Altran. 1968. Fortran variant.
+AmigaE. 1993. By Wouter van Oortmerssen. Language inspired by Ada, C++, Lisp.
+AMPL, A Mathematical Programming Language. 1985 by Brian Kernighan and others. Modeling Language for Mathematical Programming.
+ANI. 2010. Implicitly parallel. The project seems abandoned.
+Anubis. 2000. Functional, not ML, language.
+ApeScript. 2005. Dynamic, interpreted, C-like.
+APL. A Programming Language. 1962. By Kenneth E. Iverson.
+AppleScript. 1993. English-like scripting language.
+APT. Automatically Programmed Tool. High-level language for numerically controlled machines.
+Arduino. A version of the wiring language for the open source Arduino controller.
+Argos. Synchronous language.
+ARS++. Abstraction plus Reference plus Synthesis. New programming approach, given in the name.
+Asm.js. Subset of JavaScript which runs faster. It is implemented by Mozilla.
+AspectJ. Java implementation of Aspect oriented programming.
+Assembly.
+ATLAS. Several minor languages with this name.
+Autocode. 1952. Several versions of this primitive historical language.
+AutoIt. Automation language. Originally for scripting Windows applications, now more general.
+Avail. 2014. Near the english natural language, works on a virtual machine.
+Averest. Synchronous language, replaced by Quartz.
+AWK, Alfred Aho, Peter Weinberger, and Brian Kernighan. 1977. See also gawk, nawk, mawk. Interpreted, for text processing and data extraction.
+Axiom. Computer Algebra System, actually a set of tools that uses the A# language.
+B. 1969. Dennis Ritchie and Ken Thompson. Derived from BCPL, of which it shorten the name, predecessor of the C language.
+Bash. Bourne-Again shell. 1989. A command line interpreter to replace Bourne shell.
+BASIC. Beginner's All-purpose Symbolic Instruction Code. 1964. John G. Kemeny and Thomas E. Kurtz. Created to enable students at the Darmount College to use computers, it became widespread with personal computers.
+BAL. Assembly language for the IBM 360.
+BCPL, Basic Combined Programming Language. 1966. By Martin Richards at Cambridge. Successor to CPL, inspired from BASIC, and inspired B which in turn inspired C.
+BeanShell. 2000. Java-like scripting language.
+BETA. C-like, Object oriented in the Simula tradition.
+Bigwig. Descendant of MAWL, to make web services.
+Bistro. 1999. Smaltalk and Java like.
+BLISS. 1970. System langage by Carnegie Mellon, supplanted by C.
+Blockly. 2012 by Google. Graphical language, block are moved to build an application.
+Boo. 2004. Similar to Python, for .NET.
+Bosque. 2019. By Microsoft. Another C-like designed to explore new forms of expressiveness in programs.
+Bourne shell. 1978. Language of commands for Unix.
+Bournegol. 1977. Algol port made from C macros, used to write Bourne shell. The name could be apocrypha.
+BPEL. Web Services Business Process Execution Language. 2003. OASIS standard.
+C. 1972. Designed by Dennis Ritchie to write the code of the Unix operating system.
+C--. 1997. Portable intermediate language aimed at compilers. Unlike LLVM, a run-time interface to add processings such as a garbage collector.
+C++. 1983. By Bjarne Stroustrup. Named C with Classes until 1983. The first standard is C++ 98 followed by C++ 11 in 2011.
+C#. 2000. By Microsoft as an alternative to Java and derived from C++ too. It is imperative and OO language feature complete.
+C Shell. 1978. C-like for command-line scripts on Unix. Its successor is tcsh.
+Caché ObjectScript. 1997. Procedural language with database functions. Compatible with MUMPS.
+Caml. Categorical Abstract Machine Language. 1985. Derived from ML, OCaml predecessor.
+Cayenne. Functionnal, near Haskell with Java features, and return values may depend to external components.
+Cecil. 1992 Near Modula and Objective C. (Search on the site).
+Cedar. 1983. Palo Alto. Successor to Mesa and Pascal.
+Ceylon. 2012. Created by Red Hat to write collectively large programs and use structured data. Like JavaScript with classes and interfaces but runs on the JVM or Node.js. Note: Ceylan = tea, Java = coffee.
+CFScript. JavaScript part of ColdFusion. See also CFML.
+Cg. C for Graphics. C-like by NVidia and Microsoft for graphic cards.
+Chapel, Cascade High Productivity Language. 2009 by Cray, constructor of supercomputers. Parallel programming, C-like.
+Charity. 1992. Functional and categorical programming language.
+CHILL. CCITT High Level Language. 1980. Language for telecommunications. Chill 96 is object oriented and generic.
+CHR. 1991. Constraint Handling Rules. Used for artificial intelligence.
+ChucK. 2004. Multimedia concurrent language for audio synthesis and other musical tasks.
+Cilk. 1994. Multi-threaded and concurrent based on C.
+Clarion. 2011. With command for databases, eases to automates the making of report applications.
+Clay. 2011. For generic programming.
+Clean. 1987. Similar to Haskell.
+Clipper. 1985. Compiler for dBASE III, which then got features of C and Pascal.
+CLIPS. C Language Integrated Production System. See Cool.
+Clojure. 2007. Lisp-like, compiles to the JVM.
+CLOS. See Common Lisp.
+CLU. CLUster. 1975. By MIT. Made concepts that inspired Python and Ruby.
+Cobol. COmmon Business Oriented Language. 1959. Inspired by Flow-matic, Fortran. ANSI standards are Cobol 58, 74, 85 and 2002 object oriented.
+Code. Computationally-Oriented Display Environment. Visual parallel programming system.
+CoffeeScript. 2009. It compiles into JavaScript and offers a more readable syntax Python-like.
+ColdFusion. 2001. Java compatible combination of CFScript and CFML, used for dynamic web processing.
+COMAL. Common Algorithmic Language. 1973. Inspired by BASIC.
+CIL. Common Intermediate Language. Bytecode pour .NET.
+Common Lisp. 1984. Dialecte de LISP, standardisé.
+Component Pascal. See Oberon.
+COMIT. 1957. First string and list processing language
+Cool. Classroom Object Oriented Language. 1996. Conçu pour montrer la construction d'un compilateur.
+Coral66. Computer On-line Real-time Applications Language. 1964. Based on Algol 60 and Fortran, was used by the British administration.
+COWSEL, COntrolled Working SpacE Language. 1964. Renamed POP-1, followed by POP-2.
+CPL, Combined Programming Language. 1963. Predecessor of BCPL and itself finding inspiration in Algol 60.
+Crack. 2009. Scripting language intended to provide the speed of compiled program. C-like, LLVM.
+Crystal. 2015. Ruby-like, compiled.
+Csh. See C Shell.
+Curl. CURLy bracket. 1998. Markup and programming language, reflexive OO, for building web applications. Not to be confused with cURL.
+Curry. Name of a mathematician. 1996. Functional logic, based on Haskell.
+Cyclone. 2006. Dialect of C by ATT designed to be safer, avoiding memory leaks and pointers issues.
+D. 2000. By Walter Bright. A new version of C with objects, dynamic arrays and a garbage collector.
+Databus. See PL/B.
+DarkBASIC. 1999. Commercial PL for game creation. Compile to C++, with a BASIC scripting extension.
+Dart. 2011. A browser and server language designed by Google to replace JavaScript, adds classes, interfaces, mixins.
+DCL. DIGITAL Command Language. ~1977. Scripting PL used on Digital computers.
+Deca. 2011. High-level Language for system programming. Uses LLVM.
+Delphi. 1995. Pascal deviant created by Borland, now supported by Embarcadero.
+DiBOL, Digital's Business Oriented Language. 1970. BASIC and COBOL inspired for information systems.
+DisCo. DIStributed CO-operation. 1992. Specification language for reactive systems.
+Dotty. 2014. New simplified version of Scala.
+DRAKON. 1996. Visual language by the Russian space program, to express knowledge to accomplish a goal.
+Dylan. DYNamic LANguage. 1992 by Apple. Derived from Scheme. Fully object oriented, it was created for the Newton device.
+E. 1997. See also AmigaE. Descended of Joule, for distributed persistent computations.
+Ease. 1991. Inspired by CSP and Linda. contexts are parallel structures and types dynamically constructed.
+ECMAScript. 1997. The official standard for JS.
+Edinburgh IMP. See IMP.
+Eiffel. 1986. By Bertrand Meyer. Designed with security in mind.
+Elan. 1974. For learning and teaching systematic programming as a replacement to BASIC.
+elastiC. 1999. C-like portable, high-level object-oriented interpreted.
+Elixir. 2012. Functional and concurrent, run on the Erlang VM (BEAM), with a clean Ruby-like syntax. An elixir program can access and test its own source code.
+Elm. 2012. Functional reactive programming, compile to HTML, CSS and JavaScript.
+Emacs Lisp. Scripting the code editor.
+EGL. 2008. Enterprise Generation Language by IBM. Based on Cross System Product created in 1981. Very high level language compiled into other languages such as COBOL, Java, etc.
+Epigram. 2004. Concurrent, functional.
+Erlang. 1986, open source in 1998. ERicsson LANguage and also from the name Agner Krarup Erlang. Based on Prolog, Smalltalk, CSP. Functional, concurrent and runs on a virtual machine (BEAM). The model based on actors solves most concurrency concerns.
+Escapade. 1997. Server-side programming to access databases and produce web pages.
+Esterel. 1980. INRIA. For developping complex synchronous reactive systems, with parallelism and preemption.
+Euclid. 1970+. By Xerox PARC lab. Pascal-like imperative for verifiable programs. Its successor is Mesa.
+Euphoria. 1993. Typed interpreted language for scripting.
+Euler. 1966. Niklaus Wirth and Helmut Weber. Successor to Algol 60. Dynamically typed.
+Exec. See Rexx.
+F. Subset of Fortran 77 with modules and access to the file system.
+F3, Form Follow Function. 2005. Previous name for JavaFX Script, but forked under its original name.
+F#. 2005, Microsoft. Functional, OO, inspired by OCaml, Haskell and other functional languages.
+Fabric. 2010, Cornell. Based on Java and Jif, distributet, it provides security on data preservation and use.
+Factor. 2003. Stack-based like Forth.
+Fantom. 2005. C-like running on JVM and .NET with a common library. Evolutionary syntax, concurrency, mixins.
+Felix. Inspired by C++ and ML.
+Flow-Matic. 1954. By Grace Hopper. First language to use English words and statements.
+Focal, FOrmula CALculator. 1968. Interpreted, for PDP-8.
+FOCUS. 1975. Builds database queries.
+FOIL. 1967. Computer assisted learning. Another langage with this name for music generation was released in 1979.
+Forth, FOuRTH. 1973. By Charles H. Moore. Stack oriented. Used to command machines including boot of computers.
+Fortran. 1957. FORmula TRANSlator. Standard Fortran II (58), IV (61), 66, 77 (Procedural), 90, 95, 2003 (Object oriented). Language for scientific computations. Other dialects are S-Fortran, SFtran, QuickTran, LTRTran, HPF, Co-Array Fortran.
+Fortress. 2007. Designed by Sun for high performance computing. Replacement to Fortran (hence the name).
+FP, Function Programming. 1977. John Backus. Created to support functional programming.
+G. 1986. Dataflow language for the LabView system, for graphical and parallel (and functional) programming. One programs visually by connecting objects.
+Gams, General Algebraic Modeling System. 1976-1987. Modeling system for mathematical optimization.
+Go. 2009. Created by Google, is C and Pascal-like. It is concurrent with a garbage collector, aimed mainly at web services.
+Gödel. 1995. Prolog-like.
+Gosu. 2010. Java-like running on the JVM, provides extended types.
+GPSS, General Purpose Simulation System. 1972. A system is built as transactions passed from one service to another.
+Grap. By Brian Kernighan & Jon Bentley at Bell Labs. For typesetting graphs.
+Groovy. 2003. OO scripting language for Java.
+Hack. 2014. By Facebook. Statically typed version of PHP.
+Halide. 2012. By the MIT, image processing language with a compact syntax.
+Hal/S. 1968. Real-time aerospace programming language
+HAScript, Host Access Script par IBM. XML syntax, at command line, on JVM.
+Haskell. 1990. Functional language. Haskell 98 follows. In 2002 version a lazy functional language. Compiler.
+Haxe. 2006. Compile to JS, C++, PHP.
+Heron. Java-like, OO and fonctional.
+HLA, High Level Assembly. Assembler with high-level constructs.
+Hobbes. 2017. Morgan Stanley (Bank). Pattern-matching and parsing oriented, the JIT interpreter JIT may be embedded in a C++ program.
+Hugo. For interactive fictions.
+HyperTalk. 1987. By Dan Winkler at Apple. Procedural made of cards to link and assemble. Hypernext and Supercard are Hypercard-like tools.
+IAL, International Algebraic Language. 1958. Renamed Algol.
+ICI. 1988. C-like interpreted with garbage collector and dynamic data model for scripting.
+Icon. 1977-79. C and Pascal-like, for string processing, is goal directed. Followed by Unicon.
+IDL, Interactive Data Language. 1977. A descriptive language inspired by Fortran and C used in science.
+IMP. 1970. Algol-like. System, extensible syntaxe. Unlike Edinburgh IMP, its syntax differs from ALGOL.
+Inform. 1993. Design system and langage for interactive fiction. Followed by Inform 6 (1996) and Inform 7 (2006) based on natural language.
+INTERCAL. 1972. For history, a parody language to satirize the proliferation of strange constructs in PL.
+Io. 2002. Prototype-based inspired by Smalltalk.
+IPL, Information Processing Language. 1956. First in list processing but replaced by Lisp.
+ISWIM, If you See What I Mean. 1966. Not implemented by inspired functional languages.
+J. 1990. Is a rework of APL, for mathematics and data analysis.
+JADE. 1996. Pascal-like, dedicated to database management like Delphi.
+Jal, Just Another Language. 2003. Pascal-like language for micro-controllers.
+Janet. 2019. Lisp-like, for scripting of embedded. Make executables.
+Janus. 1982. By Caltech. Reversible computing.
+Janus. 1990. Concurrent, constraint, arguments with two aspects, hence the name. Predecessor of Toontalk.
+Java. 1995. James Gosling and Sun. Running on a virtual machine and so portable, is derived from C with objects. Each class is stored in one file.
+JavaFX Script. 2005. Scripting for the JavaFX interface. Dropped by Oracle, but forked under the name Visage.
+JavaScript. 1995. By Brendan Eich. Dynamic, C-like, inspired by Self for prototypes. Scripting on browsers, GUI, documents, or on the server.
+JCL, Job Control Language. For IBM mainframes.
+Jif. 2001. Cornell. Java with control on information access.
+Join Java. 2000. Augmented version of Java with joint-pattern.
+Joss, JOHNNIAC Open Shop System. 1963. Interactive time-sharing, predecessor of MUMPS.
+Joule. 1996. Concurrent and distributed, precursor of E.
+JOVIAL. Jules Own Version of the International Algorithmic Language. 1960. ALGOL-like for embedded systems. (IAL was first name of ALGOL).
+Joy. 2001. Fonctional.
+JScript. 1996. Microsoft's dialect of ECMAScript. Similar to JavaScript, without the Java name for trademark issues. Abandonned since IE 10.
+Julia. 2010. For scientific computing, very fast on LLVM. Parallel, distributed. A program can modify its own code.
+K. 1993. Proprietary, for array processing, derived from APL. Kona is a open-source interpreter.
+Kaleidoscope. 1990. Imperative, OO, with constraints. Evolved from Smalltalk-like to ALGOL-like.
+Korn shell. 1983. Scripting at command line compatible with Bourne.
+Kotlin. 2012. By JetBrains. Statically typed language for the JVM or JavaScript. An experiment to combine all p. l. theories.
+LabView. 1986. Visual language from National Instruments aimed at device control.
+Ladder Logic. Visual language for programmable logic controllers in industrial control.
+Lagoona. Experimental, for component-oriented programming, communicating by messages.
+Lava. 2001. OO, interpreted. Want to build a program from a treeview rather than a text editor.
+Leda. 1994. Its goal is to mix imparative, functional and logic paradigms.
+Lfyre. 2005. Extensible.
+Limbo. 1995. By Rob Pike & Bell Labs. Concurrent language (CSP based), for distributed applications on the Inferno OS. Successor to Alef and Newsqueak.
+LINC 4DL. Predecessor of EAE and AB Suite, two code generators by Unisys.
+Lingo. Several languages: Macromedia Lingo, Lingo Allegro, Linn Lingo, Lindo Lingo.
+Lisaac. 2003. OO based on prototypes for OS building.
+Lisp, LISt Processing. 1958 by John McCarthy. Extensible, made of a tree with perenthesis, influences many languages.
+LLJS, Low Level JavaScript. 2012. By Mozilla, typed dialect of JavaScript near C, and compiled to JS. Replaced by Asm.js.
+LLVM bitcode. 2004. Intermediate language for compilers, or virtual machines.
+Lobster. 2013. Game programming in 3D with OpenGL in backend.
+Loci. 2014. Similar to C++ but simpler, with a garbage collector, compile to LLVM.
+Logo. 1966-68. Lisp without parenthesis. Learn programming by moving a graphical turtle.
+Lua, Moon in portuguese. 1993. Scripting language originally an extension to C, now standalone.
+Lucid. 1976. Programming model close to reactive programming, where instructions are equations where variables are interconnected processors.
+Lustre. 1991. For reactive systems.
+LYaPAS. 1964. By Academia of Sciences of Russia. Logical Language for the Representation of Synthesis Algorithms. Extension of APL.
+M. 2008. Modeling language by Microsoft for the Oslo platform.
+M#. 2014. By Microsoft, code generator similar to JavaFX to build a website and compile to C# and ASP.NET.
+M. See MUMPS.
+MAD. See IAL, ALGOL.
+MarkovJunior. 2022. A langage of rules and inferences.
+Mary. 1970+. Similar to ALGOL 68, for low-level programming.
+Mathematica. 1988. Programming language that uses algebraic notation for expressions.
+MATLAB. 1975-1978. By Cleve Moler. The scientific and mathematical language evolved to more diverse applications.
+Mercury. 1995. Functional logic programming language. Ported to C, Java, .NET.
+Mesa. 1970+. Palo Alto. Pascal-like, modular, inpired Modula-2 and Java. Replaced by Cedar.
+MetaL. 2001. XML based code generator.
+MIMIC. 1964. Expression-oriented simulation language for industrial designs.
+Mirah. 2011. Similar to Ruby but runs on the Java virtual machine and use its API. May serve to make Android apps.
+Miranda. 1985 by David Turner. Functional language, has inspired Haskell.
+Miva Script. 1996. Proprietary, for ecommerce site creation.
+Mixal, Mix Assembly Language. For the Mix computer of Donald Knuth.
+ML. 1973. University of Edinburgh. Functional language inspired by ISWIM.
+Moby. 2002. Experimental to combine functional with concurrency and OO.
+Modula. 1970+ by Niklaus Wirth. Pascal (from the same author) with modules.
+Modula-2. 1980 by Niklaus Wirth. Modula with coroutines, want to be a system and application language.
+Modula-3. 1989 by DEC et Olivetti. Modula 2 with genéricc, multithreading, exceptions, garbage collector. Influenced other langage but not adopted itself.
+Mondrian. OO version of Haskell.
+Mortran. Derived from Fortran with syntaxic differences.
+Moto. 1999. C-like embedded in documents such as HTML.
+MSIL. See CIL.
+MUMPS. 1967. Massachusetts General Hospital Utility Multi-Programming System. Database oriented language.
+Napier88. Named after John Napier. 1989. Experimental persistent langage.
+Neko. 2005. Compile to bytecode for its own virtual machine.
+Nemerle. Named after a fictious character. 2003. Functional, OO and imperative. For .NET.
+Nesl. 1993. At Carnegie Mellon. Parallel, fonctional and array-oriented.
+NetRexx. 1996. By Mike Cowlishaw. Port to the JVM (and first to be so) of the Rexx scripting language used at IBM.
+Newspeak. Named after the language imagined by Orwell. 2006. Has embedded classes.
+Newsqueak. 1989. By Rob Pike at Bell Labs, who further will make Go, another concurrent language. Derived from Squeak, it eases to make GUIs. Inspired Alef, Limbo and Go.
+Ngl, aNGeL. 2004. Extension of J, with a mathematical notation.
+Nial, Nested Interactive Array Language. 1981. Functional programming notation for arrays, applied to IA.
+Nice. 2003. OO with enhanced features and strict controls against errors.
+Nickle. 2001. Numeric oriented for algorithmics.
+Nim (formerly Nimrod). 2010. Python-like for system programming. Meta-programming, OO, compile to C, JS or binary.
+Nit. 2009. Statically typed object oriented, Ruby-like.
+Noop. 2009. By Google. Java-like language designed to syntactically encourage good coding practices and discouraging bad habits. Compile to bytecode for the JVM.
+Nu 2007. Lisp-like, OO and interpreted.
+o:Xml. 2002. OO with a XML-like syntax.
+Oberon, named after a moon of Uranus. 1986 by Niklaus Wirth. Reflective and extensible, derived from Modula-2.
+Objective-C. 1983. C plus Smalltalk objects, used mainly on Apple's devices after being popularized on NeXT machines in 1988.
+OCaml, Objective Caml. 1996 by INRIA. ML-derived, functional and imperative language on a virtual machine. Extends Caml.
+Objective Modula 2. 2006. Combination of Objective-C, Smalltalk and Modula 2.
+Obliq. Derived from Oberon for distributed processing.
+Occam. 1983. (occam-π). Concurrent based on the CSP principle.
+Octave. 1988. Interpreted, for numerical computation.
+ooc. 2009. C-like, object oriented, compiles to C.
+Opa. 2011. Server-side or client-side, compiled to JavaScript.
+Opal. (OPtimized Applicative Language). University of Berlin. Functional algebraic  language, introduced monads, then called "commands".
+OpenEdge ABL. OpenEdge Advanced Business Language. 1984. English-like syntaxe and OO with DB management commands. 
+OPL, Open Programming Langage. 1984. BASIC-like for Symbian OS.
+OPS5, Official Production System 5. Rule-based, use an inference engine, written in BLISS.
+Orc. 2004 by University of Texas. A language for distributed and concurrent programming, working through sites.
+Oz. 1991. Multi-paradigm: imperative, functional, logics, constraints, OO, distributed and concurrent.
+
+Pascal, after the name of a French mathematician. 1968-71, by Nicklaus Wirth. The syntax encourage structured programming.
+PBASIC. 1992. Version of BASIC for microcontrollers.
+Perl. 1987 by Larry Wall. Interpreted, dynamic for scripting, its murky syntax let it called "read-only language".
+PHP, Personal Home Page Hypertext Processor. 1995 by Rasmus Lerdof. PHP 5 in 2004. PHP 6 in 2007. Server-side scripting and web page generator.
+Pico. 1997. Minimalistic to learn programming concepts to students in other fields.
+Picture. 2015 par la MIT. Probabilistic language for image recognition.
+Pike. 1994. C-like, interpreted, dynamic, OO, with advanced data type. May be used to learn C.
+PILOT, Programmed Instruction, Learning, or Teaching. 1968. First steps in CAI.
+PL-11. 1971. OO for PDP 11.
+PL/0. 1976. By Niklaus Wirth, simplified version of Pascal for education.
+PL/B, Programming Language for Business, formerly DATABUS. 1970+. Alternative to COBOL, compiled to bytecode.
+PL/C. 1970+. Subset of PL/1 for teaching programming.
+PL/I. 1964 by IBM. Programming Language One. Procedural for numerical and industrial processing.
+PL/M, Programming Language for Microcomputers. 1972 by Gary Kildall. High-level language for Intel's microprocessors.
+Planner. 1969. To add logical processing to a procedural language. Subsets have been implemented.
+Plankalkül. Trad: formal system for planning. 1948 by Konrad Zuse.
+POP-2. 1970. Successor of POP-1 and followed by POP-11. Functional, inspired by Lisp and ALGOL 60.
+POV-Ray. Graphic language for the raytracer.
+Processing. 2001. C-like, for creating images and interactive animations.
+Prograph. 1983 by Acadia University. Visual language with symbolic icons.
+Prolog. 1972 by Alain Colmerauer. Logic programming, in declarative form.
+Proteus, PROcessor for TExt Easy to USe. 1988. Functional for string processing.
+P-TAC. 1989. Parallel language.
+Pure. 2008. Functional interpreted (through LLVM) language based on term rewriting.
+Purescript. 2011. Functional language statically typed, compile to JavaScript.
+Python. 1991 by Guido van Rossum. Scripting interpreted or compiled language.
+Q. 2003. Inspired by APL, array processing language for financial apps.
+QuakeC. Version of C for the Quake game.
+QPL, Quantum Programming Languages. Set of languages for quantum computers.
+QML, Qt Modeling Language. 2009. Declarative language to design user interfaces, similar to JavaFX, for Qt.
+Quorum. 2012. Object oriented, extensible language which aims to be clean and easy for beginners. Compile to JVM.
+R. 1993. Language and environment for statistical computation and graphics. Derived from the S language it is similar to Scheme.
+R++. 1998 by Bell Labs. Rule-based version of C++.
+Racket. 1994. Lisp-like designed to be developped by the programmer.
+Ratfiv. Pun from Ratfor (four) and Rat five. 1980+. Version of Ratfor with C-like features.
+Ratfor, Rational Fortran. 1975 by Brian Kernighan. Preprocessor for Fortran.
+rc. 1989 by Bell Labs. Plan9 command language shell, ported further to Unix.
+Rebol, Relative Expression Based Object Language. 1997. Dynamic language with numerous predefined types. Version 3.0 is open source in 2012.
+Red. 2011. Similar to Rebol, but compiled and open source from the beginning.
+Refal, REcursive Functions Algorithmic Language. 1968. Functional, goal-oriented pattern matching. The basic data structure is a tree.
+RPG, Report Program Generator. 1959 by IBM. Query tool extended in a programming language similar to event-driven. Main versions are RPG II, RPG III, RPG/400, RPG IV.
+RPL, ROM-based Procedural Language. 1984 by HP. Language for calculators similar to Forth.
+Rexx, REstructured eXtended eXecutor. 1979 by Mike Cowlishaw. Designed for IBM OS scripting but ported on other platforms.
+RLaB. 2000. Alternative to MATHLAB with a simpler syntax.
+RSL, Robot Scripting Language. 2002 by Microsoft. For the game Robot Battle.
+Ruby. 1995 by Yukihiro Matsumoto. Follows a "principle of least surprise", each thing must be intuitive. Multi-paradigm, object oriented for scripting and web apps.
+Rust, red hair in old English. 2006. Concurrent language by Mozilla Labs inspired of C and LLJS and improved for safety. Alternative to Go, LLVM based.
+S. 1976. Bell Laboratories, John Chamber. Statistical language. Replaced by R.
+S-algol, St Andrews Algol. 1979 by University of St-Andrews (Scotland). Simplified and improved version of ALGOL-60.
+Sail. Stanford Artificial Intelligence Language. 1970. Based on an associative memory or records, events, contexts.
+SAM76. 1970+. Macro language for CP/M.
+SAS. 1972. For statistical reports and analysis. Produces HTML or PDF documents.
+SASL, St. Andrews Standard Language. 1972. Implementation of ISWIM.
+Sather, after the Jane Sather tower. 1990 by Berkeley. Based on Eiffel but evolved with new feature such as functional programming, classes, iterators.
+Sawzall. 2003. By Rob Pike at Google to manage log data of its servers.
+Scala. 2003 by Martin Odersky. To write concise code Java compatible. Implements many new concepts.
+Scheme. 1975 by MIT. Dialect of Lisp and ALGOL with a simple design.
+Scratch. 2007. Educational language developed by MIT consisting of blocks to be assembled. The same principle was used for the OpenBlocks Java library.
+Scriptol. 2001 Object oriented and designed to be intuitive and improve productivity, it integratges reactive and imperative programming. Interpreted or compiled to JavaScript, C++ or PHP.
+Sed, Stream EDitor. 1974 by Bell Labs. Text processing.
+Seed7. 2005. Similar to Pascal and ADA, extensible syntax.
+Self. 1993. OO prototype based like Smalltalk, uses a JIT.
+SETL, SET Language. 1967-1969. Has inspired ABC, predecessor of Python, and transmitted the idea of tuples.
+Short Code. 1949. Precursor of programming languages.
+Simit. 2016. By the MIT to replace Matlab and work on graphs or physical simulations, similar to Julia with graph structures.
+Simula. 1962. Superset of ALGOL 60. Simula 67 introduced classes and inheritance, virtual methods, coroutines.
+SISAL. Streams and Iteration in a Single Assignment Language. 1983. Pascal-like, functional, for numerical computations.
+Slip, Symmetric LIst Processor. 1960+, list processor to fortran and other programming languages.
+Smalltalk. 1972 by Alan Kay and others. OO, dynamic and reflexive, inspired other languages as Objective-C.
+SNOBOL. 1962. Snobol 3 (1965), 4 (1966). Based mainly on pattern-matching. SPITPOL (SPeedy ImplemenTation of snobOL) is a compiled version of SNOBOL for IBM 360.
+SOAP, Symbolic Optimal Assembly Program. 1957. IBM 650 assembly language.
+Snowball, imitates SNOBOL. 2001. String processing, stemming algorithms, compiled to C or Java.
+SPARK. 1983. ADA-like, for secure systems.
+SP/k. 1974. Subset of PL/I, used for teaching.
+SPL, Shakespeare Programming Language. 1993. Humorous.
+Squeak. 1996. Dialect of Smalltalk.
+Squirrel. 2003. C-like, for scripting embedded in a C or C++ app.
+SR, Synchronizing Resources. Old concurrent language.
+S/SL, Syntax/Semantic Language. 1980. University of Toronto. For code generators.
+Standard ML. 1990. Derived from ML. Functional, type inference.
+Subtext. 2001. Experimental visual PL.
+SuperCollider. 1996. Interpreted, OO for real time audio synthesis and algorithmic composition.
+SuperX++. 2001. XML language.
+Swift. 2014. By Apple for its OS in the goal to replace Objective-C by a safer and faster language. Another language has the same name.
+Synergy/DBL. Language for the development environment Synergy/DE.
+T. 1980+. A version of Scheme.
+TACL,Tandem Advanced Command Language. 1974. Scripting language used by Hewlett-Packard on servers.
+TACPOL, Tactical Procedure Oriented Language. Before 1977. Implementation of PL/I, was used by US army.
+TADS, Text Adventure Development System. 1988. A language to make games.
+TAL, Transaction Application Language. System language, cross between C and Pascal, for Tandem computers.
+Transcript. Voir Revolution.
+Tcl, Tool Command Language. 1988 by John Ousterhout. Tk is an associated graphical toolkit.
+TELCOMP. 1965. Derived from JOSS, conversationnal language used on PDP computers until 1974. Influenced Mumps.
+Tempo. Declarative, logic, and concurrent.
+Titanium. 2005. Dialect of Java, parallel, for scientific computing.
+TI-BASIC. 1996. BASIC-like language for Texas Instrument calculators.
+Toit. 2019. For microcontrollers of IOT , the Internet of Things, from developers of V8 and Dart at Google.
+TOM. 1990+. OO with dynamic extensible classes.
+TRAC, Text Reckoning And Compiling. 1960+. Macro-oriented for text processing.
+TTCN-3, Testing and Test Control Notation. For communication systems control.
+Turing. 1982. Pascal-like, derived from Euclid.
+TUTOR. 1965. CAI programming language.
+TypeScript. 2012. Superset to JavaScript by Microsoft, with static types, classes and modules. Compiled to JavaScript. Open source under Apache license.
+TXL, Turing eXtender Language. 1988. Derived from Turing above.
+Ubercode. 2005. Commercial, cross between Eiffel and BASIC.
+UNCOL, Universal Computer Oriented Language. 1958 by Melvin E. Conway. First concept for an intermediate language for a virtual machine.
+Unicon. Unified Extended Dialect of Icon. 1996. Based on Icon with OO, access to the system.
+UnrealScript. 1998. Scripting the Unreal engine for games.
+UrbiScript. 2003. Robot programming language.
+UML, Unified Modeling Language. 1994 by Rational Software. Visual programming language, ISO standard.
+Verilog HDL, Verilog Hardware Description Language. 1990.
+VHDL, VHSIC Hardware Description Language. 1980+.
+VDS. Visual DialogScript. 1995. Interpreted to build interfaces on Windows.
+Visual Basic. 1991 by Microsoft. Version OO and improved of BASIC.
+Visual Basic .NET. 2001. Successor to Visual Basic 6.0, runs on .NET.
+VBScript, Visual Basic Script Edition.1996 by Microsoft. Lighweight and interpreted version of Visual Basic for Windows.
+VTL, VTL-2, Very Tiny Language. 1976. Minimal language stored in less than 1 K byte ROM of the Altair 680B and 8800.
+Water. For prototyping XML web services.
+Whitespace. 2003. Actually a joke, an "esoteric" programming language, with a real interpreter.
+Winbatch. 1991. Scripting language for Windows.
+Wiring. 2003. Development plateform and C-like language dedicated to electronics.
+WLanguage. 1992. Generator of applications, influenced by BASIC and Pascal
+Wolfram. 2013. Based to knowledge processing, it combines several paradigms to achieve greater flexibility in automatic processing.
+Wyvern, name of mythical creature. 2014 by Carnegie Mellon University. Interpreted and compiled for secure apps.
+X10. 2004. By IBM for the PERCS project. Aims at performances on large sites with structured parallelism.
+XOTcl, Extended Object Tcl. Object oriented version of TCL with mixins.
+XPL. 1968. Derived from PL/I, for compiler writing.
+XL, eXtensible Language. 2000. Implements "concept programming". Any program can reconfigure its syntax.
+Xtend. 2011 by the Eclipse Foundation to ease Java, makes improvements, such as removing  semicolons, a powerful switch as in Scriptol. Compiles to Java code.
+YAFL. 1990+. A version of Modula-2.
+Yorick. 1996. Interpreted language for scientific calculations and simulations.
+Z Notation. 1977. Visual specification of programs like UML.
+Zig. 2016. Humorous language designed like a parody of Rust.
+ZPL, Z-level Programming Language. Parallel for scientific and engineering computations.
+ZOPL, Version Z, Our Programming Language. 1970+. Similar to C and Pascal, for mainframes.
+Markup languages and data formats
+CFML, ColdFusion Markup Langage. 1995 by Adobe. Scriptin of Web apps running on JVM and .NET.
+EmotionML. 2013. An XML dialect for representing emotions, by the W3C..
+HTML, HyperText Markup Language. 1991 bys Tim Berners-Lee. Based on SGML.
+JSON Patch. Standard proposed by IETF for actions on a JSON document.
+PostScript. 1982 by Adobe. Langage of graphic vectors, often used for document publishing.
+Protocol Buffers. 2008 by Google. Format of document serialization on textual files, similar to JSON. FlatBuffer is a faster binary version.
+RDF, Resource Description Framework. 1999 by W3C. Format to store information with metadata.
+SGML, Standard Generalized Markup Language. 1969 by IBM. Precusort to XML for human readable data storage.
+SVG, Scalable Vector Graphic. 2001 by W3C. XML-based vector format for 2D graphics, supported by browsers.
+Tex. Text formatting.
+XAML. eXtensible Application Markup Language.
+XBL. eXtensible Bindings Language. For widget creating in Xml based languages.
+Xforms. Web graphical interactive user interface.
+XHTML. XML HTML.
+XML. eXtensible Markup Language.
+XUL. XML-based User interface Language.
+Query or database oriented languages
+Andl. 2015. A new DataBase query language which is not SQL. He wants to store more logic in the database and simplify the queries. Implemented on PostgreSQL.
+AQL, Aerospike Query Language. 2012. Simple language but more evolved than SQL for the Aerospike DBM.
+Aubit-4GL. See Informix.
+D. 1994. Abstract relational language, implemented in D4 written in C#. Tutorial D is a teaching version.
+Dataflex. 1980. Database programming language.
+dBase. 1979. First database programming language on personal computer (Apple II and IBM PC).
+GraphQL. 2015. Created by Facebook to simplify queries instead of SQL. They takes the form of a JavaScript object.
+Hypertalk. 1987. Card language for Apple.
+Informix-4GL. 4GL means for fourth generation specialized language. Informix is specialized in databases and reports.
+pl/SQL. SQL extension.
+SQL, Structured Query Language. 1987 by IBM. Most commonly used query language.
+Visual Foxpro. 1984. Derived from dBase. Owned by Microsoft, replaced by LightSwitch.
